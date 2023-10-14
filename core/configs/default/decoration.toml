@@ -1,0 +1,13 @@
+
+
+
+[gradient]
+status=false
+#sets the colours intented for the curve
+#this will be used when creating the curve without issues
+#colours=["45, 252, 245", "252, 45, 186"]
+colours=["45, 252, 245", "252, 45, 186"]
+#sets all the tables which will be included for the gradient table
+#allows for better handling without issues happening on requests
+tables=["users", "commands", "logins", "sessions", "who", "methods", "myrunning", "ongoing", "apis", "themes", "slaves"]
+enable_with_credits=true

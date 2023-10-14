@@ -1,0 +1,10 @@
+\x1b[0m<?
+	const cnc string = cnc()
+	const question1 = atoi(QueryOne())
+	const question2 = atoi(QueryTwo())
+
+	var answer = question1 + question2
+?>
+<<padding.ansi(answer)>><<user.title(6000, user.username()+", to continue onto "+cnc+" you must copy the string displayed below!")>>
+ 
+ 

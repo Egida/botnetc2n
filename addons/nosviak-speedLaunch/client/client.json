@@ -1,0 +1,13 @@
+{
+    "target":"127.0.0.1:8070",
+    "timeout":4,
+    "methods":[
+        {
+            "name":"udpbypass",
+            "pipeOutput":true,
+            "args":[
+                "ping", "<<$target>>"
+            ]
+        }
+    ]
+}

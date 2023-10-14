@@ -1,0 +1,10 @@
+<?
+	//make this unique
+	const name = "hello"
+	const aliases = "hello,hi"
+	const description = "displays a hello message for the user"
+	//permissions for the command
+	const permissions = ""
+?>
+ \x1b[38;5;240m<<padding.ansi("Hello ", user.username(), ".")>>\x1b[0m
+s

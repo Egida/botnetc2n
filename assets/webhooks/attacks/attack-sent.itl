@@ -1,0 +1,7 @@
+the user __<<$useraction>>__ has launched an attack
+
+__***target***__ : `<<$target>>`,
+__***duration***__ : `<<$duration>>`,
+__***port***__ : `<<$port>>`,
+__***method***__ : `<<$method>>`,
+__***type***__: `<<$type>>`

@@ -1,0 +1,17 @@
+<<clear()>>         \033[1;37mOnline Attacks           Online Users           Total Attacks
+     \033[1;37m——————————————————————  ——————————————————————  ——————————————————————   
+               \033[1;34m<<global.ongoing()>>                       \033[1;34m<<global.online()>>                       \033[1;34m<<global.totalattacks()>> \r\n\r\n
+
+
+
+
+        \033[1;37m       Tip                                      \033[1;37m Account info
+     \033[1;37m—————————————————————————                    \033[1;37m—————————————————————————
+     \033[1;37mPress \033[1;33mTab \033[1;37mto complete                         \033[1;37mUsername         \033[1;34m<<user.username()>>
+     \033[1;37mcommands. EG: \033[1;34mcle \033[1;37m+                           \033[1;37mMaxtime          \033[1;34m<<user.maxtime()>>
+     \033[1;37m\033[1;33mTab \033[1;37m-> \033[1;34mclear\033[1;37m.                                 \033[1;37mCooldown         \033[1;34m<<user.cooldown()>>
+     \033[1;37mOr cycle through commands                     \033[1;37mExpiry           \033[1;34m<<time.unix(user.expiry(), "02/01/2006")>>
+     \033[1;37mby pressing \033[1;33mTab                               \033[1;37mRanks            \033[1;34m<<user.ranks()>>\033[1;37m
+ 
+
+

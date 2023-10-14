@@ -1,0 +1,2 @@
+\x1b[38;5;15mRandomly generated api-key -> <<colour.marshal(apikey(), "230,255,0", "255,0,100", "138,43,226")>>
+ 

@@ -1,0 +1,26 @@
+<<clear()>>
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[0m
+\x1b[48;5;9m                                                                                \x1b[s
+\x1b[13A\x1b[48;5;9m\x1b[38;5;11m                                Access Denied
+\x1b[48;5;9m\x1b[38;5;16m        You have reached the max amount of login attempts per session\x1b[u\x1b[0m

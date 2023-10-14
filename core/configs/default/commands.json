@@ -1,0 +1,14 @@
+{
+    "some command" : {
+        "description":"some new description",
+        "permissions":["some", "new", "permissions"],
+        "aliases":["some", "new", "aliases"],
+        "subcommands":[
+            {
+                "name" : "some subcommand",
+                "description":"some subcommand description",
+                "permissions":[]
+            }
+        ]
+    }
+}

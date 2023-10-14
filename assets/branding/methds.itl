@@ -1,0 +1,9 @@
+<?
+	//make this unique
+	const name = "myip"
+	const aliases = "ip"
+	const description = "displays your current IP"
+	//permissions for the command
+	const permissions = ""
+?>
+ \x1b[4m<divine><<user.username()>>'s IP: <<user.ip()>></divine>\x1b[0m

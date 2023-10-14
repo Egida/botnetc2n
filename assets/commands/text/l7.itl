@@ -1,0 +1,17 @@
+<?
+	//make this unique
+	const name = "l7"
+	const aliases = "layer7"
+	const description = "Displays layer7 attack methods"
+	//permissions for the command
+	const permissions = ""
+?>
+
+<<clear()>>                                  \033[1;37mLayer7
+  \033[1;37m ——————————————————————————————————————————————————————————————————————————
+   \033[1;34multra         \033[1;37mhttp 1.1 and 2 flood made for bypassing http-ddos
+   \033[1;34mbypass        \033[1;37mpowerful http 2 flood made for bypassing http-ddos
+   \033[1;34msocket        \033[1;37mhttp 2 flood made for non protected websites
+   \033[1;34mbrowser       \033[1;37mpowerful http 2 flood emulating a browser\r\n
+
+                            .method url ip\r\n

@@ -1,0 +1,1 @@
+ <<padding.padRight(type(), 7)>><<padding.padRight(arch(), 3)>>: <<connected()>>

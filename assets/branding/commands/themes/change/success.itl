@@ -1,0 +1,12 @@
+<<clear()>>Correctly updated your theme to: `<<theme()>>`
+
+
+<?
+	if user.theme() != "default" {
+		//basic include system for different branding peices
+		include(user.theme() + "/" + "welcome.itl")
+	} else {
+		//default home screen
+		include("welcome.itl")
+	}
+?>

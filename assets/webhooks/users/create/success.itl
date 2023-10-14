@@ -1,0 +1,6 @@
+the user __<<$useraction>>__ has created a newUser!
+
+__***username***__ : `<<$username>>`,
+__***maxtime***__ : `<<$maxtime>>`,
+__***cooldown***__ : `<<$cooldown>>`,
+__***concurrents***__ : `<<$concurrents>>`,

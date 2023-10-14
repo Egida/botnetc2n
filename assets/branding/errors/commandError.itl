@@ -1,0 +1,7 @@
+<?
+	if user.CanAccess("admin") {
+		echo("Command error: ", error(), "\r\n")
+	} else {
+		echo("Error happened while trying to execute "+command(), "\r\n")
+	}
+?>

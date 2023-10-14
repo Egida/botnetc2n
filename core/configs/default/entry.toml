@@ -1,0 +1,20 @@
+# stores and allows for controlling of Captcha
+# allows you to properly control the Captcha settings
+enabled=true
+user_bypass=[
+    "admin", "moderator"
+]
+
+# Meta data for the generation
+minimum_generation=10
+maximum_generation=50
+# amount of tries before kick
+maximum_attempts=5
+
+[mfa]
+# forced?
+forced=true
+# who can bypass the captcha
+bypass_forced=["admin", "moderator"]
+# Show inside the MFA App
+app="nosviak2" 

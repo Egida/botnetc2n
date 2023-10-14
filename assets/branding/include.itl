@@ -1,0 +1,7 @@
+<?
+    var check string = "Hello man"
+
+    func Hello(user string) string {
+        return "Hello " + user
+    }
+?>

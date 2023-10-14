@@ -1,0 +1,1 @@
+ syntax: users set-minutes=<int> <usernames...>

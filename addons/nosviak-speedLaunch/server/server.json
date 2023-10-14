@@ -1,0 +1,10 @@
+{
+    "api_server":"localhost:8060",
+    "listener":"127.0.0.1:8070",
+    "api_key":"a1qsbbGazsyykuURe6Mt",
+
+    "methods":[
+        "udpbypass",
+        "stop"
+    ]
+}

@@ -1,0 +1,4 @@
+\033[13;0f\x1b[0m                   \x1b[48;5;235m\x1b[38;5;9m Invalid username [\x1b[38;5;11mALERT\x1b[38;5;9m]               \x1b[0m
+\033[14;0f                   \x1b[48;5;235m\x1b[38;5;15m the username which you have entered has\x1b[0m
+\033[15;0f                   \x1b[48;5;235m\x1b[38;5;15m been classified as invalid therefor you\x1b[0m
+\033[16;0f                   \x1b[48;5;235m\x1b[38;5;15m can't login to this account right now! \x1b[0m

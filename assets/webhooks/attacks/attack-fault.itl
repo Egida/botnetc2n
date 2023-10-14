@@ -1,0 +1,6 @@
+the user __<<$useraction>>__ has failed to launch an attack
+
+__***target***__ : `<<$target>>`,
+__***duration***__ : `<<$duration>>`,
+__***port***__ : `<<$port>>`,
+__***method***__ : `<<$method>>`,

@@ -1,0 +1,1 @@
+\033]0; [<<spinner("spinner", false)>>] BOTS: [<<global.mirai()>>] | OPERATOR: [<<user.username()>>] | TOTAL: [<<global.online()>>] | <<time.unix(user.expiry(), "02/01/2006")>> \007

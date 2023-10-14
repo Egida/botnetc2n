@@ -1,0 +1,11 @@
+name="cfx"
+description="FiveM CFX resolver"
+# header program used to execute
+# args can't include the keyword
+runtime="go"
+min_args=1
+args=["run", "assets/commands/bin/cfx.go", "<<arg(0)>>"]
+# environment variables control
+env=["admin=<<$admin>>", "username=<<$username>>"]
+# meta data for permissions needed
+access=["admin"]

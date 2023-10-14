@@ -1,0 +1,22 @@
+<?
+	//make this unique
+	const name = "methods"
+	const aliases = "attacks"
+	const description = "Displays normal attack methods"
+	//permissions for the command
+	const permissions = ""
+?>
+<<clear()>>                                  Private L4
+   ——————————————————————————————————————————————————————————————————————————
+   \033[1;34mdns           \033[1;37mdns amplification flood made for high gbps        
+   \033[1;34mntp           \033[1;37mntp amplification flood made for high gbps and pps        
+   \033[1;34mstun          \033[1;37mstun amplification flood made for high pps/bypassing         
+   \033[1;34mudp-bypass    \033[1;37mudp flood made for bypassing protected servers         
+   \033[1;34mudp-bypassv2  \033[1;37mudp flood made for bypassing protected servers
+   \033[1;34mminecraft     \033[1;37msocket flood made for bypassing minecraft servers
+   \033[1;34msyn           \033[1;37mspoofed tcp syn flood
+   \033[1;34mack           \033[1;37mspoofed ack flood
+   \033[1;34msocketflood   \033[1;37mtcp socket flood
+   \033[1;34movh           \033[1;37mtcp handshake flood made for bypassing ovh servers ONLY\r\n
+		    	 .\033[1;37mmethod ip time port\r\n
+

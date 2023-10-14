@@ -1,0 +1,7 @@
+{
+    "users" : {
+        "description":"manage user with this command",
+        "permissions":[],
+        "aliases":["usr", "user", "list"]
+    }
+}

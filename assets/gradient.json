@@ -1,0 +1,45 @@
+{
+    "divine" : {
+        "enabled" : true,
+        "colours" : [
+            {
+                "red":45, "green":252, "blue":245
+            },
+            {
+                "red":252, "green":45, "blue":186
+            }
+        ]
+    },
+
+    "relax" : {
+        "enabled" : true,
+        "colours" : [
+            {
+                "red":91, "green":114, "blue":176
+            },
+            {
+                "red":255, "green":212, "blue":148
+            },
+            {
+                "red":240, "green":127, "blue":157
+            },
+            {
+                "red":213, "green":94, "blue":149
+            },
+            {
+                "red":99, "green":65, "blue":128
+            }
+        ]
+    },
+    "bluey" : {
+        "enabled" : true,
+        "colours" : [
+            {
+                "red":200, "green":249, "blue":238
+            },            
+            {
+                "red":100, "green":83, "blue":227
+            }
+        ]
+    }
+}

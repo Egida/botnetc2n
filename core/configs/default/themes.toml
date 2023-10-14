@@ -1,0 +1,104 @@
+#stores all the ranks which can change theme
+#this will ensure you can properly manage you has theme control
+theme_changer=[
+    "admin", "moderator", "reseller"
+]
+
+[theme]
+
+#stores the standard theme
+#allows for better customization
+[theme.default]
+# sample data for the theme
+enabled=true
+hidden=true
+description="default theme for the cnc properly"
+update_all_sessions=true
+
+#stores all the themes inside the map
+#this will allow for better control without issues
+[theme.saturn]
+# sample data for the theme
+enabled=true
+hidden=false
+description="explore different planets with the saturn theme"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="saturn"
+
+[theme.saturn.decoration]
+# stores the targeted gradient colour
+gradient=["30,0,60", "113,3,192", "236,56,188", "253,239,249"]
+
+[theme.halloween]
+# sample data for the theme
+enabled=true
+hidden=false
+description="explore different seasons with the halloween theme"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="halloween"
+
+[theme.halloween.decoration]
+# stores the targeted gradient colour
+gradient=["235,97,34", "134,56,63", "67,28,82"]
+
+[theme.christmas]
+# sample data for the theme
+enabled=true
+hidden=false
+description="explore different seasons with the christmas theme"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="christmas"
+
+[theme.christmas.decoration]
+# stores the targeted gradient colour
+gradient=["116,214,128", "255,120,120"]
+
+[theme.easter]
+# sample data for the theme
+enabled=true
+hidden=false
+description="explore different seasons with the easter theme"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="easter"
+
+[theme.easter.decoration]
+# stores the targeted gradient colour
+gradient=["255,212,229", "224,205,255", "189,232,239", "183,215,132", "254,255,162"]
+
+
+[theme.ctos]
+# sample data for the theme
+enabled=true
+hidden=false
+description="the one and only theme, ctOS"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="ctos"
+
+[theme.ctos.decoration]
+# stores the targeted gradient colour
+gradient=["255,212,229", "224,205,255", "189,232,239", "183,215,132", "254,255,162"]

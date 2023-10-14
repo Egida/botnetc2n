@@ -1,0 +1,16 @@
+[attacks]
+prefix="."
+kv_prefix="-"
+timeoutunit="second"
+timeout=1
+# Controls the HTTP user agent for outgoing requests
+useragent="Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Mobile Safari/537.36 Edge/15.15254"
+attack_groups=[
+    {group="bypass", maxtime=200, conns=1}
+]
+
+attack_callback=true
+
+[attacks.dns]
+enabled=true
+routes=["1.1.1.1", "8.8.8.8"]

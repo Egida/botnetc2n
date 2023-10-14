@@ -1,0 +1,29 @@
+<?
+	//make this unique
+	const name = "private"
+	const aliases = "priv"
+	const description = "Displays private attack methods"
+	//permissions for the command
+	const permissions = ""
+?>
+
+<<clear()>>                                  Private L4
+   ——————————————————————————————————————————————————————————————————————————
+   \033[1;31mudpflood      \033[1;37mraw udp flood and amplification floods made for high gbps
+   \033[1;31mudphex        \033[1;37mraw udp hex flood and amplification floods made for high gbps
+   \033[1;31mudpplain      \033[1;37mraw udpplain flood and amplification floods made for high pps 
+   \033[1;31msynflood      \033[1;37mraw and spoofed syn flood made for high gbps 
+   \033[1;31mtcpbypass     \033[1;37mraw tcp hex flood and spoofed tcp bypass made for bypassing 
+   \033[1;31mtcp-bypassv2  \033[1;37mraw tcp hex and spoofed syn-ack flood made for bypassing
+   \033[1;31mtcp-overflow  \033[1;37mraw tcp hex and spoofed tcp overflow made for bypassing
+   \033[1;31mudpbypass     \033[1;37mraw and spoofed udp bypass made for bypassing
+   \033[1;31mudpbypassv2   \033[1;37mraw udpbypass and amplification made for bypassing 
+   \033[1;31moctovpn       \033[1;37mraw udp hex flood and custom bypass made for octovpn
+   \033[1;31mudp-bomb      \033[1;37mraw udp hex flood and custom amp flood made for bypassing
+   \033[1;31mtcp-bomb      \033[1;37mraw tcp hex flood and custom amp flood made for bypassing
+   \033[1;31mhandshake     \033[1;37mraw and spoofed handshake flood made for bypassing
+   \033[1;31mmix           \033[1;37mraw tcp and layer 7 flood made for bypassing
+   \033[1;31movhv2         \033[1;37mraw tcp hex flood and ovh bypass (only works on ovh)\r\n\r\n
+
+            All methods here are sent with raw and spoofed attacks
+                    Making these methods insanly powerful\r\n\r\n            

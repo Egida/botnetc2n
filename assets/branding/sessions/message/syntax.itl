@@ -1,0 +1,2 @@
+ Syntax: sessions message <message> [user_tag]
+ [user_tag]: :root root:12345

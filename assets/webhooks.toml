@@ -1,0 +1,46 @@
+[webhooks]
+#controls if you want webhooking
+#this will send a webhook reqeust if the event is triggered
+enabled=false
+#stores the token used for webhooking
+#this will be only discord focussed properly
+token=""
+#the system timeout is stored inside an int
+#this will decide the timeout on webhooks properly
+timeout=5
+#allows you to change the colours properly
+#this will ensure its done without any errors
+colour=0
+#stores all the trigger events properly
+#when each of these triggers are found a webhook will be sent
+trigger=[
+    "attacks\\attack-sent.itl", "attacks\\attack-fault.itl", "welcome.itl",
+    "users\\create\\success.itl", "users\\remove\\success.itl"
+]
+
+[customConfigs]
+
+# custom branding controls for the object
+# this allows you to set custom colours etc per branding
+[customConfigs.attack-sent]
+#sets the custom colour properly
+custom_colour=10900155
+title="__**<<$cnc>> CNC**__"
+
+# custom branding controls for the object
+# this allows you to set custom colours etc per branding
+[customConfigs.attack-fault]
+#sets the custom colour properly
+custom_colour=16333359
+title="__**<<$cnc>> CNC**__"
+
+# custom branding controls for the object
+# this allows you to set custom colours etc per branding
+[customConfigs.welcome]
+#sets the custom colour properly
+custom_colour=53606
+title="__**<<$cnc>> CNC**__"
+
+[customConfigs.success]
+custom_colour=10900155
+title="__**<<$cnc>> CNC**__"

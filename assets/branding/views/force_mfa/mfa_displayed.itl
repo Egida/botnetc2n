@@ -1,0 +1,4 @@
+<<clear()>>
+<<qrcode()>>
+Please enter this secret: <<secret()>>
+On either Authy or Google

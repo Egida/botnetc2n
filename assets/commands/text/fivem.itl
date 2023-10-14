@@ -1,0 +1,17 @@
+<?
+	//make this unique
+	const name = "fivem"
+    const aliases = ""
+	const description = "Displays fivem attack methods"
+	//permissions for the command
+	const permissions = ""
+?>
+
+<<clear()>>                                  Private FiveM Panel
+   ——————————————————————————————————————————————————————————————————————————
+                        \033[1;31mfivem      
+
+            The net will hit the players.json and with l4 raw udpbypass
+                    Send at least 60 seconds to the ip
+                         .method ip time port
+            

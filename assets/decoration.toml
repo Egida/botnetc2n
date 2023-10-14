@@ -1,0 +1,18 @@
+[gradient]
+status=true
+colours=[[45,252,245], [252,45,186]]
+enable_with_credits=true
+
+
+[gradient.table]
+# tables which will be included for the gradient table
+tables=["users", "commands", "logins", "sessions", "who", "methods", "myrunning", "ongoing", "apis", "themes", "slaves", "myattacks", "plans", "ranks"]
+
+# 1 - compact table
+# 2 - compact lite (RECOMMENDED)
+# 3 - compact classic
+# 4 - default table (RECOMMENDED)
+# 5 - markdown table
+# 6 - rounded table
+# 7 - unicode table style (RECOMMENDED)
+type_forced_style=2

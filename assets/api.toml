@@ -1,0 +1,26 @@
+[api]
+enabled=true
+host="localhost:10000"
+path="/nosviak2/api"
+default_keylen=12
+default_type="Multi-Dimensional"
+
+#only reloadable on startup
+blocked_routes=[
+]
+
+[tls]
+tls=false
+certification="server.cert"
+key="server.key"
+
+## Launching attacks ##
+    # format 1: http://localhost:8080/attack?username=[USERNAME]&password=[PASSWORD]&target=[TARGET]&port=[PORT]&duration=[DURATION]&method=[METHOD]
+    # format 2: http://localhost:8080/attack?token=[TOKEN]&target=[TARGET]&port=[PORT]&duration=[DURATION]&method=[METHOD]
+## View your ongoing attacks ##
+    # format 1: http://localhost:8080/ongoing?username=[USERNAME]&password=[PASSWORD]
+    # format 2: http://localhost:8080/ongoing?token=[TOKEN]
+## View your Nosviak2 edition ##
+    # format 1: http://localhost:8080/edition?
+## [DEV] External Rank system ##
+    # format 1: http://localhost:8080/rank/access?username=[USERNAME]&password=[PASSWORD]&rank=[RANK]

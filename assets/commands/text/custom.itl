@@ -1,0 +1,76 @@
+<?
+	const name = "custom"
+	const aliases = ""
+	const description = "example of an ITL custom command schema"
+	const permissions = "admin,moderator"
+?>
+Hey <<user.username()>>, this is an ITL custom command example!
+<?
+	//Check if the user is admin
+	if user.CanAccess("admin") {
+		echo("You're admin\r\n")
+	} else {
+		echo("You're not admin...\r\n")
+	}
+
+	//centres text in the centre of the users string
+	//this will use the padding right custom package function
+	func CustomCentre(text string, pad string, length int) string {
+		//works what half of the window & text are
+		var halfWindow int = length / 2
+		var halfText   int = len(text) / 2
+		
+		//pads the current output properly
+		var spec string = padding.padcustomRight("", halfWindow - halfText, pad)
+		return spec + text + spec
+	}
+
+	//runs the function and prints it properly
+	var out = CustomCentre("Hello there, how are you?", "=", user.length()-1)
+	echo(out+"\r\n")
+
+
+	//prints some information about the system
+	//this will use the sys (aka system) package
+	echo("os: ", sys.os()+"\r\n")
+	echo("arch: ", sys.arch()+"\r\n")
+	//echo("cores: ", sys.cpu()+"\r\n")
+	echo("goVersion: ", sys.goversion()+"\r\n")
+
+	//shows an example of the gradient function
+	//this will give you a good example on how it works
+	var target string = CustomCentre("Hello!", "─", user.length())
+	var output string = colour.marshal(target, "0,255,255", "255,0,255", "255,255,0")
+	echo(output + "\r\n\x1b[38;5;15m")
+
+	//examples of the global function
+	//allows usage of some functions to control
+	echo("All slaves: ", global.mirai(), "\r\n")
+	echo("Operators Online: ", global.online(), "\r\n")
+	echo(user.username(), "'s ongoing attacks: ", global.myrunning(), "\r\n")
+
+
+	//prints little information about the user
+	//uses the user package and the time package properly
+	echo("expiry: ",time.until(user.expiry())+"\r\n")
+	echo("pretty ranks: ",user.ranks()+"\x1b[38;5;15m\r\n")
+	echo("total attacks: ", user.totalAttacks(),"\r\n")
+	user.title(5000, "Custom command example!")
+
+	//some examples of encoding inside the cnc
+	//allows for complete examples without issues
+	echo("sha1: ",encoding.sha1("Hiya")+"\r\n")
+	echo("sha256: ",encoding.sha256("Hiya")+"\r\n")
+
+	echo("base64: ",encoding.base64("Hiya")+"\r\n")
+	echo("base32: ",encoding.base32("Hiya")+"\r\n")
+
+	echo("md5: ",encoding.md5("Hiya")+"\r\n")
+
+
+	//prints the spinners current frame in rotation
+	echo("Title spinner's current frame: "); spinner("spinner", true); echo("\r\n")
+
+	//print a basic message to the user!
+	echo("Read more about ITL within the ITL.md documentation file!\r\n")
+?>

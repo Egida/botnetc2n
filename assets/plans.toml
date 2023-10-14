@@ -1,0 +1,56 @@
+[plans]
+
+[plans.ultimate]
+newuser=true
+maxtime=800
+cooldown=30
+# 0 for all
+max_slaves=0
+concurrents=2
+max_sessions=1
+
+# roles which come with plan
+access_arrangements=["admin"]
+default_theme="default"
+
+# format in days
+plan_length=30
+
+description="the ultimate experience"
+
+
+[plans.api-basic]
+newuser=true
+maxtime=200
+cooldown=30
+# 0 for all
+max_slaves=0
+concurrents=2
+max_sessions=1
+
+# roles which come with plan
+access_arrangements=["vip", "api"]
+default_theme="default"
+
+# format in days
+plan_length=30
+
+description="basic access arrangements with api"
+
+[plans.api-yearly]
+newuser=true
+maxtime=200
+cooldown=30
+# 0 for all
+max_slaves=0
+concurrents=2
+max_sessions=1
+
+# roles which come with plan
+access_arrangements=["vip", "api"]
+default_theme="default"
+
+# format in days
+plan_length=365
+
+description="basic access arrangements with api"

@@ -1,0 +1,21 @@
+# Configuration for fake slaves
+# this will allow for proper fake slaves
+# to adjust anything inside here you must **RESTART** the cnc
+[fake_slaves]
+
+
+[fake_slaves.standard]
+enabled=true
+maximum=5000
+minimum=4900
+equilibrium=4950
+# Meta data for the ticker in milliseconds
+ticker=1000
+
+[fake_slaves.random]
+enabled=true
+maximum=90100
+minimum=89990
+equilibrium=89995
+# Meta data for the ticker in milliseconds
+ticker=1000

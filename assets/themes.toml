@@ -1,0 +1,35 @@
+#stores all the ranks which can change theme
+#this will ensure you can properly manage you has theme control
+theme_changer=[
+    "admin", "moderator", "reseller"
+]
+
+[theme]
+
+#stores the standard theme
+#allows for better customization
+[theme.default]
+# sample data for the theme
+enabled=true
+hidden=true
+description="default theme for the cnc properly"
+update_all_sessions=true
+
+[theme.mirato]
+# sample data for the theme
+enabled=true
+hidden=false
+description="mirato, an example of a theme"
+update_all_sessions=true
+# stores the permissions needed for the theme
+permissions=[
+
+]
+# captures the branding for theme
+branding="mirato"
+
+[theme.mirato.decoration]
+
+#blocked_commands=[]
+# stores the targeted gradient colour
+gradient=[[200, 249, 238], [100, 83, 227]]

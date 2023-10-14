@@ -1,0 +1,48 @@
+[spinners]
+
+
+[spinners.spinner]
+# stores the frames for the spinner
+# this will ensure its done without issues
+frames = [
+    "|", "/", "-", "\\", "|", "/", "-", "\\"
+]
+# stores the duration between the next frame displaying
+#TIP: when putting a spinner inside a title, make sure the duration inside the title ticks is slower than the spinner
+#     this will try to counteract frame skipping within the title handler properly
+ticks=1000
+[spinners.attack]
+#stores the launch information
+#this will ensure its done without errors
+launchITL=true
+#displays all the spinner frames
+#this will ensure its done without issues
+frames = [
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 0, \"-\")>>><<padding.padcustomRight(\"\", 20, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 1, \"-\")>>><<padding.padcustomRight(\"\", 19, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 2, \"-\")>>><<padding.padcustomRight(\"\", 18, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 3, \"-\")>>><<padding.padcustomRight(\"\", 17, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 4, \"-\")>>><<padding.padcustomRight(\"\", 16, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 5, \"-\")>>><<padding.padcustomRight(\"\", 15, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 6, \"-\")>>><<padding.padcustomRight(\"\", 14, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 7, \"-\")>>><<padding.padcustomRight(\"\", 13, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 8, \"-\")>>><<padding.padcustomRight(\"\", 12, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 9, \"-\")>>><<padding.padcustomRight(\"\", 11, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 10,\"-\")>>><<padding.padcustomRight(\"\", 10, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 11,\"-\")>>><<padding.padcustomRight(\"\", 9, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 12,\"-\")>>><<padding.padcustomRight(\"\", 8, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 13,\"-\")>>><<padding.padcustomRight(\"\", 7, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 14,\"-\")>>><<padding.padcustomRight(\"\", 6, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 15,\"-\")>>><<padding.padcustomRight(\"\", 5, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 16,\"-\")>>><<padding.padcustomRight(\"\", 4, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 17,\"-\")>>><<padding.padcustomRight(\"\", 3, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 18,\"-\")>>><<padding.padcustomRight(\"\", 2, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+    "  <<padding.padLeft(\"\", user.length()/4)>>\\x1b[38;5;9m<<method()>>\\x1b[38;5;15m <<padding.padcustomRight(\"\", 19,\"-\")>>><<padding.padcustomRight(\"\", 1, \" \")>> \\x1b[38;5;10m<<target()>>\\x1b[0m",
+]
+ticks=10
+
+[spinners.motd]
+
+frames = [
+    "Welcome to Nosviak2"
+]

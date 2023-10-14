@@ -1,0 +1,18 @@
+{
+    "enabled" : true,
+    "methods" : {
+
+        "std" : {
+            "provider" : [
+                "Sky UK Limited", "Virgin Media Limited", "Charter Communications"
+            ],
+
+            "asn" : [
+                5607, 5089
+            ],
+
+            "enabled" : true,
+            "access_bypass" : ["vip"]
+        }
+    }
+}

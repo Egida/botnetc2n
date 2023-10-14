@@ -1,0 +1,24 @@
+# control your attack blacklisting
+# this will stop users from being able to attack a target
+# if it appears inside this array properly
+ips=[
+    "127\\.0\\.0\\.1",
+    "1\\.1\\.1\\.1",
+	"8\\.8\\.8\\.8",
+	"0\\.0\\.0\\.0",
+	"1\\.1\\.2\\.2",
+	"9\\.9\\.9\\.9",
+]
+
+#domain support properly
+domains=[
+    "(.*.gov)",
+	"(.*.gov.uk)",
+	"gov\\.uk",
+	"(.*google.com)",
+	"(.*google.co.uk)",
+	"(.*discord.com)",
+	"(.*discordapp.com)",
+	"(.*github.com)",
+	"(.*github.io)",
+]
